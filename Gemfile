@@ -39,3 +39,5 @@ end
 group :staging, :production do
   gem "rack-timeout"
 end
+
+gem 'devise_token_auth', '0.1.42'
