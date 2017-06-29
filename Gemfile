@@ -41,3 +41,4 @@ group :staging, :production do
 end
 
 gem 'devise_token_auth', '0.1.42'
+gem 'omniauth', '1.6.1'
